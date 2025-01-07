@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Wooden coaster",
+		"replaces": "Monument",
+		"uniqueTo": "Six Flags Employees",
+		"cost": 2,
+		"happiness": 2,
+		"culture": 2,
+		"science": 2,
+		"faith": 10,
+		"maintenance": 1,
+		"isNationalWonder": false,
+		"requiredTech": "Agriculture"
+	},
+	{
+		"name": "Arrow Mine train",
+		"uniqueTo": "Six Flags Employees",
+		"cost": 2,
+		"happiness": 5,
+		"science": 5,
+		"requiredTech": "Iron Working"
+	}
+]

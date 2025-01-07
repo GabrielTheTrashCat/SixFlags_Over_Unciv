@@ -1,0 +1,29 @@
+[
+	{		
+		//nations		
+		 "name": "Six Flags",	
+		  "leaderName": "Mr Six",		
+		 "adjective": ["Six Flags Employees"],		
+		 "startBias": ["Plains"],		
+		 "preferredVictoryType": "Cultural", 
+			  
+		 "startIntroPart1": "Six flags has decided to tackle it's biggest challenge yet, to build an entire civilization",		
+		 "startIntroPart2": "", 		
+		 "declaringWar": "You leave us no choice. You and your reign must end!",		
+		 "attacked": "Why dont you choose an opponet thats your size?",		
+		 "defeated": "you may kill the man but never it's ideals",		
+		 "introduction": "hooooollaaaaaaaa", 		
+		 "neutralHello": "Hello!",	
+		 "hateHello": "I hope you're here for a civil talk.", 		
+		 "tradeRequest": "there's new deals at six flags", 		
+	  
+		 "outerColor": [168,1,2],		
+		 "innerColor": [250,226,0],
+			  
+		 "favoredReligion": "Christianity",	
+		  
+		 "uniqueName": "amusement industry",		
+		 "uniques": ["[+10 Happiness] [in all cities]", "[+15]% [Happiness] [in all cities] <when not at war>", "City-State territory always counts as friendly territory", "[30]% of excess happiness converted to [Culture] <when not at war>", "[+10]% Strength for cities <when attacking>", "[-20]% City-State Influence degradation", "Six Flags Employees"],		
+		 "cities": ["Six Flags Over Texas", "Six Flags Over Georgia", "ix Flags Great Adventure", "Six Flags Magic Mountain", "Six Flags St. Louis", "Six Flags Fiesta Texas", "Six Flags New England"],
+	  }
+]
